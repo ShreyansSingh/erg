@@ -1,0 +1,12 @@
+body{
+    background: linear-gradient(aqua,teal);
+    text-align: center;
+    color: white;
+}
+
+#camera{
+    border: 2px;
+    border-style: double;
+    width: 300px;
+    height: 300px;
+}
